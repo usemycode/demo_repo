@@ -1,3 +1,3 @@
 # Demo
 
-description: git and gitgub demo 
+description: git and gitgub demo learning from youtube videos
